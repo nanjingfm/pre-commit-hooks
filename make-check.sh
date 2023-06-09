@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-make check
+make fmt
+make vet
+make lint
